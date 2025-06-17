@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: My Creative Space
+  text: Begin Your Discovery
+  tagline: Discover Potential, Ignite Curiosity
   actions:
     - theme: brand
       text: Markdown Examples
@@ -14,7 +14,7 @@ hero:
       text: API Examples
       link: /api-examples
   image:
-      src: /icon.png
+      src: /icon.webp
 
 features:
   - title: Feature A
