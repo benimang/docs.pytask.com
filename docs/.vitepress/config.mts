@@ -48,6 +48,15 @@ export default defineConfig({
                 ],
             },
             {
+                text: '亚马逊电商',
+                collapsed: true,
+                items: [
+                    { text: '常量数据', link: '/amazon/const' },
+                    { text: '敏感数据', link: '/amazon/secret' },
+                    { text: '批量添加数据', link: '/amazon/add_batch' },
+                ],
+            },
+            {
                 text: '公司资料',
                 collapsed: true,
                 items: [
