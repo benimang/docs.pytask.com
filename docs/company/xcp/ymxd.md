@@ -2,22 +2,26 @@
 
 ## 更新命令
 
-> [!CAUTION] 夜幕行动 - 正式 - SERVER
+> [!CAUTION] 夜幕行动
+> 正式 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/ymxd/rsync_go_game_admin.sh
 > ```
 
-> [!CAUTION] 夜幕行动 - 正式 - WEB
+> [!CAUTION] 夜幕行动
+> 正式 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/ymxd/rsync_vue_game_admin.sh
 > ```
 
-> [!CAUTION] 夜幕行动 - 正式 - API
+> [!CAUTION] 夜幕行动
+> 正式 - API
 > ``` shell
 > sh /opt/www/scripts/game/ymxd/rsync_xcp_api.sh
 > ```
 
-> [!CAUTION] 夜幕行动 - 正式 - DCS
+> [!CAUTION] 夜幕行动
+> 正式 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/ymxd/rsync_xcp_dcs.sh
 > ```

@@ -2,22 +2,26 @@
 
 ## 更新命令
 
-> [!CAUTION] 屠龙仙缘 - 正式 - SERVER
+> [!CAUTION] 屠龙仙缘
+> 正式 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/tlxy/rsync_go_game_admin.sh
 > ```
 
-> [!CAUTION] 屠龙仙缘 - 正式 - WEB
+> [!CAUTION] 屠龙仙缘
+> 正式 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/tlxy/rsync_vue_game_admin.sh
 > ```
 
-> [!CAUTION] 屠龙仙缘 - 正式 - API
+> [!CAUTION] 屠龙仙缘
+> 正式 - API
 > ``` shell
 > sh /opt/www/scripts/game/tlxy/rsync_xcp_api.sh
 > ```
 
-> [!CAUTION] 屠龙仙缘 - 正式 - DCS
+> [!CAUTION] 屠龙仙缘
+> 正式 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/tlxy/rsync_xcp_dcs.sh
 > ```

@@ -2,42 +2,50 @@
 
 ## 更新命令
 
-> [!TIP] 萌兔对对碰 - 测试 - SERVER
+> [!TIP] 萌兔对对碰
+> 测试 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_go_game_mtddp_admin.sh
 > ```
 
-> [!TIP] 萌兔对对碰 - 测试 - WEB
+> [!TIP] 萌兔对对碰
+> 测试 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_vue_game_mtddp_admin.sh
 > ```
 
-> [!TIP] 萌兔对对碰 - 测试 - API
+> [!TIP] 萌兔对对碰
+> 测试 - API
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_xcp_api.sh
 > ```
 
-> [!TIP] 萌兔对对碰 - 测试 - DCS
+> [!TIP] 萌兔对对碰
+> 测试 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_xcp_dcs.sh
 > ```
 
-> [!CAUTION] 萌兔对对碰 - 正式 - SERVER
+> [!CAUTION] 萌兔对对碰
+> 正式 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/mtddp/rsync_go_game_admin.sh
 > ```
 
-> [!CAUTION] 萌兔对对碰 - 正式 - WEB
+> [!CAUTION] 萌兔对对碰
+> 正式 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/mtddp/rsync_vue_game_admin.sh
 > ```
 
-> [!CAUTION] 萌兔对对碰 - 正式 - API
+> [!CAUTION] 萌兔对对碰
+> 正式 - API
 > ``` shell
 > sh /opt/www/scripts/game/mtddp/rsync_xcp_api.sh
 > ```
 
-> [!CAUTION] 萌兔对对碰 - 正式 - DCS
+> [!CAUTION] 萌兔对对碰
+> 正式 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/mtddp/rsync_xcp_dcs.sh
 > ```

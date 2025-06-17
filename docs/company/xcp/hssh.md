@@ -2,42 +2,50 @@
 
 ## 更新命令
 
-> [!TIP] 横扫山河 - 测试 - SERVER
+> [!TIP] 横扫山河
+> 测试 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_go_game_hssh_admin.sh
 > ```
 
-> [!TIP] 横扫山河 - 测试 - WEB
+> [!TIP] 横扫山河
+> 测试 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_vue_game_hssh_admin.sh
 > ```
 
-> [!TIP] 横扫山河 - 测试 - API
+> [!TIP] 横扫山河
+> 测试 - API
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_xcp_api.sh
 > ```
 
-> [!TIP] 横扫山河 - 测试 - DCS
+> [!TIP] 横扫山河
+> 测试 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/demo/rsync_xcp_dcs.sh
 > ```
 
-> [!CAUTION] 横扫山河 - 正式 - SERVER
+> [!CAUTION] 横扫山河
+> 正式 - SERVER
 > ``` shell
 > sh /opt/www/scripts/game/hssh/rsync_go_game_admin.sh
 > ```
 
-> [!CAUTION] 横扫山河 - 正式 - WEB
+> [!CAUTION] 横扫山河
+> 正式 - WEB
 > ``` shell
 > sh /opt/www/scripts/game/hssh/rsync_vue_game_admin.sh
 > ```
 
-> [!CAUTION] 横扫山河 - 正式 - API
+> [!CAUTION] 横扫山河
+> 正式 - API
 > ``` shell
 > sh /opt/www/scripts/game/hssh/rsync_xcp_api.sh
 > ```
 
-> [!CAUTION] 横扫山河 - 正式 - DCS
+> [!CAUTION] 横扫山河
+> 正式 - DCS
 > ``` shell
 > sh /opt/www/scripts/game/hssh/rsync_xcp_dcs.sh
 > ```
