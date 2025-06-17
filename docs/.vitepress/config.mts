@@ -57,7 +57,7 @@ export default defineConfig({
                 items: [
                     { text: '常量数据', link: '/amazon/const' },
                     { text: '敏感数据', link: '/amazon/secret' },
-                    { text: '批量添加数据', link: '/amazon/add_batch' },
+                    { text: '批量添加产品', link: '/amazon/add_batch' },
                 ],
             },
             {

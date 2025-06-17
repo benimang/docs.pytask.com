@@ -25,7 +25,7 @@
 
 ## 汽车型号
 
-| 简称   | 详细名称            |                   |
+| 简称   | 详细名称            | 车型              |
 | ------ | ------------------- | ----------------- |
 | ACUTL  | Acura TL            | 中型轿车          |
 | ACUTLX | Acura TLX           | 中型轿车          |
@@ -68,16 +68,16 @@
 
 ## 标题模板（遮光垫）
 
-- Dash Cover Custom Fit for `PRODUCT_NAME`, Dashboard Mat Pad `COLOR`
-- Dashboard Cover Dash Mat Fit for `PRODUCT_NAME` `COLOR`
-- Dashboard Cover Dash Cover Mat Pad Custom Fit for `PRODUCT_NAME` `COLOR`
-- Dashboard Cover Dash Cover Mat Pad Carpet Custom Fit for `PRODUCT_NAME` `COLOR`
-- Dashboard Cover Dash Cover Mat Carpet Pad Custom Fit for `PRODUCT_NAME` `COLOR`
-- Dashboard Cover Dash Cover Mat Custom Fit for `PRODUCT_NAME` `COLOR`
-- Dashboard Cover Dash Cover Mat Fit for `PRODUCT_NAME` `COLOR`
-- Dash Cover Custom Fit for `PRODUCT_NAME`, Dashboard Cover Mat Carpet Pad `COLOR`
-- Dashboard Cover Dash Mat Pad Custom Fit for `PRODUCT_NAME` `COLOR`
-- Dash Cover Mat Custom Fit for `PRODUCT_NAME`, Dashboard Cover Pad Carpet `COLOR`
-- Dash Cover Mat Fit for `PRODUCT_NAME`, Dashboard Carpet Pad `COLOR`
-- Dash Cover Mat Pad Custom Fit for `PRODUCT_NAME`, Dashboard Cover Carpet `COLOR`
-- Dash Cover Mat Custom Fit for `PRODUCT_NAME`, Dashboard Pad Carpet `COLOR`
+- Dash Cover Custom Fit for `NAME`, Dashboard Mat Pad `COLOR`
+- Dashboard Cover Dash Mat Fit for `NAME` `COLOR`
+- Dashboard Cover Dash Cover Mat Pad Custom Fit for `NAME` `COLOR`
+- Dashboard Cover Dash Cover Mat Pad Carpet Custom Fit for `NAME` `COLOR`
+- Dashboard Cover Dash Cover Mat Carpet Pad Custom Fit for `NAME` `COLOR`
+- Dashboard Cover Dash Cover Mat Custom Fit for `NAME` `COLOR`
+- Dashboard Cover Dash Cover Mat Fit for `NAME` `COLOR`
+- Dash Cover Custom Fit for `NAME`, Dashboard Cover Mat Carpet Pad `COLOR`
+- Dashboard Cover Dash Mat Pad Custom Fit for `NAME` `COLOR`
+- Dash Cover Mat Custom Fit for `NAME`, Dashboard Cover Pad Carpet `COLOR`
+- Dash Cover Mat Fit for `NAME`, Dashboard Carpet Pad `COLOR`
+- Dash Cover Mat Pad Custom Fit for `NAME`, Dashboard Cover Carpet `COLOR`
+- Dash Cover Mat Custom Fit for `NAME`, Dashboard Pad Carpet `COLOR`
