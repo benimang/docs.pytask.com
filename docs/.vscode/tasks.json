@@ -7,7 +7,7 @@
             "command": "TortoiseGitProc.exe",
             "args": [
                 "/command:commit",
-                "/path:${workspaceFolder}",
+                "/path:${workspaceFolder}/../",
             ],
         },
         {
@@ -25,7 +25,7 @@
             "command": "TortoiseGitProc.exe",
             "args": [
                 "/command:revert",
-                "/path:${workspaceFolder}",
+                "/path:${workspaceFolder}/../",
             ],
         },
         {
@@ -43,7 +43,7 @@
             "command": "TortoiseGitProc.exe",
             "args": [
                 "/command:sync",
-                "/path:${workspaceFolder}",
+                "/path:${workspaceFolder}/../",
             ],
         },
         {
@@ -52,7 +52,7 @@
             "command": "TortoiseGitProc.exe",
             "args": [
                 "/command:log",
-                "/path:${workspaceFolder}",
+                "/path:${workspaceFolder}/../",
             ],
         },
         {
@@ -62,6 +62,14 @@
             "args": [
                 "/command:log",
                 "/path:${file}",
+            ],
+        },
+        {
+            "label": "serve",
+            "problemMatcher": [],
+            "command": "pnpm",
+            "args": [
+                "docs:dev",
             ],
         },
     ],
