@@ -13,6 +13,8 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+  image:
+      src: /icon.png
 
 features:
   - title: Feature A
