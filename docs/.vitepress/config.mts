@@ -23,6 +23,11 @@ export default defineConfig({
 
         socialLinks: [
             { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-        ]
+        ],
+
+        // 本地搜索
+        search: {
+            provider: 'local',
+        },
     }
 })
