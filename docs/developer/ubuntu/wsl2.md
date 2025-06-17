@@ -1,4 +1,4 @@
-`WSL2` 在 `Windows` 安装 `Linux` 子系统
+# `WSL2` 在 `Windows` 安装 `Linux` 子系统
 
 ## 电脑开启虚拟功能
 

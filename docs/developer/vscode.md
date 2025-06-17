@@ -1,3 +1,5 @@
+# VSCode 常用配置
+
 ## settings.json
 
 ``` json
@@ -152,9 +154,12 @@
 
 ## 插件
 
-`code --list-extensions` 可以打印当前所有安装的插件
-
+``` shell
+# 打印当前所有安装的插件
+code --list-extensions
 ```
+
+``` text:line-numbers
 antfu.unocss
 bmewburn.vscode-intelephense-client
 cipchk.cssrem

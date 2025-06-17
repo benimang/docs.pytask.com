@@ -1,13 +1,13 @@
 # 二步验证恢复资料
 
-> [!CAUTION] gitee
-> ```
-> gitee
-> oTcBL1LjKPu/nDhGOrx2/r6qU0iC73viziaq8vdiIGr5XZZgSbLZUz0wPn7EvSmMLONQglD7ifkCRx/PstmFNzYBKocoM+5Ii1Eh9UOFIEmPOQhamuDIOzfQLFn6VR4ACJkxPDjdNgHxleKYk/bGQ7ECuSmlTmhfYoYmLyXf/xwrde0Yp+6of8uVUO5RyOTHsxoii48RK/m4znCKeWLBDB5JUeEYE/rLNPTnA/nsUZNi
-> ```
+## gitee
+```
+gitee
+oTcBL1LjKPu/nDhGOrx2/r6qU0iC73viziaq8vdiIGr5XZZgSbLZUz0wPn7EvSmMLONQglD7ifkCRx/PstmFNzYBKocoM+5Ii1Eh9UOFIEmPOQhamuDIOzfQLFn6VR4ACJkxPDjdNgHxleKYk/bGQ7ECuSmlTmhfYoYmLyXf/xwrde0Yp+6of8uVUO5RyOTHsxoii48RK/m4znCKeWLBDB5JUeEYE/rLNPTnA/nsUZNi
+```
 
-> [!CAUTION] pypi
-> ```
-> pypi
-> FRZmNVcTWybI8MPqlCnTmIOI91uMrzi2bczMgl9j7FeP5vBhBUsJhES1v+yPF0h9fFunMgqG4z5bIdCmEo6pwnSe+aDECoK9MenocSMK/yO+0ixQhFZgxSutSB3LplEZhcgn0Ve55aGRM5Qk19EkRWOtX7WfS+//J69c31OPIHFIlD2sh5+uopa7R+2GoOVpJw==
-> ```
+## pypi
+```
+pypi
+FRZmNVcTWybI8MPqlCnTmIOI91uMrzi2bczMgl9j7FeP5vBhBUsJhES1v+yPF0h9fFunMgqG4z5bIdCmEo6pwnSe+aDECoK9MenocSMK/yO+0ixQhFZgxSutSB3LplEZhcgn0Ve55aGRM5Qk19EkRWOtX7WfS+//J69c31OPIHFIlD2sh5+uopa7R+2GoOVpJw==
+```

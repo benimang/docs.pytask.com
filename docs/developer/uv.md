@@ -35,8 +35,8 @@ default = true
 
 ## Windows 系统 uv.toml 路径
 
-- %APPDATA%\uv\uv.toml （没找到）
-- %SYSTEMDRIVE%\ProgramData\uv\uv.toml（可以用）
+- `%APPDATA%\uv\uv.toml` （没找到）
+- `%SYSTEMDRIVE%\ProgramData\uv\uv.toml`（可以用）
 
 
 ## 疑难排除
