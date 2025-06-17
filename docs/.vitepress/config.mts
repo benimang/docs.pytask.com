@@ -2,9 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "My Awesome Project",
+    title: "Beni Docs",
     description: "A VitePress Site",
     lang: 'zh-Hans',
+
+    markdown: {
+        image: {
+            // 图片懒加载
+            lazyLoading: true
+        }
+    },
+
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         // nav: [
@@ -22,6 +30,25 @@ export default defineConfig({
                     { text: 'Markdown Examples', link: '/markdown-examples' },
                     { text: 'Runtime API Examples', link: '/api-examples' },
                 ]
+            },
+            {
+                text: '技术资料',
+                collapsed: true,
+                items: [
+                    { text: '证书文件', link: '/developer/certification' },
+                    { text: '二步验证恢复资料', link: '/developer/recovery' },
+                    { text: 'VSCode 配置', link: '/developer/vscode' },
+                    { text: 'UV', link: '/developer/uv' },
+                    { text: '临时脚本', link: '/developer/scripts' },
+                    {
+                        text: 'Ubuntu',
+                        collapsed: true,
+                        items: [
+                            { text: '环境搭建', link: '/developer/ubuntu/setup' },
+                            { text: 'WSL2搭建', link: '/developer/ubuntu/wsl2' },
+                        ],
+                    },
+                ],
             },
             {
                 text: '公司资料',
