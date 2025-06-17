@@ -1,3 +1,4 @@
+import markdownItMark from 'markdown-it-mark'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -12,7 +13,10 @@ export default defineConfig({
         image: {
             // 图片懒加载
             lazyLoading: true
-        }
+        },
+        config: (md) => {
+            md.use(markdownItMark)  // 使用 ==高亮== 语法
+        },
     },
 
     themeConfig: {
