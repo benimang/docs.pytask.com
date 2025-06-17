@@ -12,6 +12,9 @@ export default defineConfig({
         //     { text: 'Examples', link: '/markdown-examples' }
         // ],
 
+        // 右侧菜单标题深度展示
+        outline: 'deep',
+
         sidebar: [
             {
                 text: 'Examples',
