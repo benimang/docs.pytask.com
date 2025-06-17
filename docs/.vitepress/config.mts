@@ -6,6 +6,8 @@ export default defineConfig({
     description: "A VitePress Site",
     lang: 'zh-Hans',
 
+    head: [['link', { rel: 'icon', href: '/favicon.svg' }]],
+
     markdown: {
         image: {
             // 图片懒加载
@@ -19,6 +21,8 @@ export default defineConfig({
         //     { text: 'Home', link: '/' },
         //     { text: 'Examples', link: '/markdown-examples' }
         // ],
+
+        logo: { src: '/favicon.svg', width: 24, height: 24 },
 
         // 右侧菜单标题深度展示
         outline: 'deep',
@@ -78,9 +82,7 @@ export default defineConfig({
         },
 
         // 页面底部显示最后更新时间
-        lastUpdated: {
-            text: '页面最后更新',
-        }
+        lastUpdated: {},
 
     }
 })

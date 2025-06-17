@@ -41,7 +41,7 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /AL
 
 具体配置可以查看文档 [wsl.conf 配置](https://learn.microsoft.com/zh-cn/windows/wsl/wsl-config)
 
-``` conf title="wsl.conf"
+``` toml title="wsl.conf"
 [boot]
 systemd=true
 
