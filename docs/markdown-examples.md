@@ -1,4 +1,4 @@
-# Markdown Extension Examples x1
+# Markdown Extension Examples x2
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
