@@ -8,11 +8,11 @@ hero:
   tagline: Discover Potential, Ignite Curiosity
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: VitePress 官网
+      link: https://vitepress.dev/zh/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Markdown 基本用法
+      link: https://vitepress.dev/zh/guide/markdown
   image:
       src: /icon.webp
 
