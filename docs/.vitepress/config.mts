@@ -57,5 +57,10 @@ export default defineConfig({
             next: false
         },
 
+        // 页面底部显示最后更新时间
+        lastUpdated: {
+            text: '页面最后更新',
+        }
+
     }
 })
