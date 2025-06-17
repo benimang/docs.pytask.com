@@ -8,7 +8,7 @@
 
 系统最好是 Windows 11 以后的版本，之前的版本部分功能支持不完整
 
-![Image title](../../assets/images/bc525b4a.webp)
+![Image title](/images/bc525b4a.webp)
 
 ## 家庭版 Hyper-V
 
