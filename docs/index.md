@@ -11,8 +11,8 @@ hero:
       text: 常用网址
       link: /developer/website
     - theme: alt
-      text: Markdown 基本用法
-      link: https://vitepress.dev/zh/guide/markdown
+      text: 常用软件
+      link: /developer/software
   image:
       src: /icon.webp
 
