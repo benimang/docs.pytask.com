@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 常用网址
-      link: /developer/website
+      link: /developer/common#常用网址
     - theme: alt
       text: 常用软件
-      link: /developer/software
+      link: /developer/common#常用软件
   image:
       src: /icon.webp
 

@@ -36,8 +36,7 @@ export default defineConfig({
                 text: '技术资料',
                 collapsed: true,
                 items: [
-                    { text: '常用网址', link: '/developer/website' },
-                    { text: '常用软件', link: '/developer/software' },
+                    { text: '常用资源', link: '/developer/common' },
                     { text: '证书文件', link: '/developer/certification' },
                     { text: '二步验证恢复资料', link: '/developer/recovery' },
                     { text: '镜像地址', link: '/developer/mirror' },
