@@ -24,3 +24,13 @@
 | [Balsamiq Wireframes](https://pesktop.com/en/windows/balsamiq_wireframes) | 软件或网站草图设计工具            |
 | [PuTTY](https://pesktop.com/en/windows/putty)                             |                                   |
 | [Notepad++](https://pesktop.com/en/windows/notepad)                       |                                   |
+
+
+## Chrome 浏览器插件
+
+| 名称                                                                                            | 备注                       |
+| ----------------------------------------------------------------------------------------------- | -------------------------- |
+| [沉浸式翻译](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)         | 可以把划词按键触发设置打开 |
+| [Markdown Viewer](https://chromewebstore.google.com/detail/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)    |                            |
+| [Fatkun图片批量下载](https://chromewebstore.google.com/detail/mojcdcedhidldcgaokbelcmffoaengkj) |                            |
+

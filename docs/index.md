@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 常用软件
       link: /developer/common#常用软件
+    - theme: alt
+      text: 常用 Chrome 插件
+      link: /developer/common#Chrome 浏览器插件
   image:
       src: /icon.webp
 
