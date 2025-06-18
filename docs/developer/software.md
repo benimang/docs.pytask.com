@@ -8,5 +8,3 @@
 | [Balsamiq Wireframes](https://pesktop.com/en/windows/balsamiq_wireframes) | 软件或网站草图设计工具            |
 | [PuTTY](https://pesktop.com/en/windows/putty)                             |                                   |
 | [Notepad++](https://pesktop.com/en/windows/notepad)                       |                                   |
-|                                                                           |                                   |
-|                                                                           |                                   |
