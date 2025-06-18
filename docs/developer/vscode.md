@@ -160,17 +160,17 @@ code --list-extensions
 ```
 
 ``` text:line-numbers
+alibaba-cloud.tongyi-lingma
 antfu.unocss
 bmewburn.vscode-intelephense-client
 cipchk.cssrem
 dbaeumer.vscode-eslint
 egretengine.coder
 esbenp.prettier-vscode
-github.copilot
-github.copilot-chat
 golang.go
 gruntfuggly.todo-tree
 leechaojiang.px-to-vw
+mechatroner.rainbow-csv
 ms-dotnettools.vscode-dotnet-runtime
 ms-python.autopep8
 ms-python.debugpy
@@ -182,6 +182,7 @@ ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
 ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
+ms-vscode.powershell
 ms-vscode.vscode-speech
 redhat.vscode-yaml
 rvest.vs-code-prettier-eslint
