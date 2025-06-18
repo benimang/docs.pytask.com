@@ -1,4 +1,4 @@
-# VSCode 常用配置
+# VSCode
 
 ## settings.json
 
@@ -304,3 +304,17 @@ zxh404.vscode-proto3
     },
 }
 ```
+
+## 快捷键
+
+`CTRL + SHIFT + O` 跳转到指定的函数
+
+`CTRL + SHIFT + P` 命令面板
+
+`CTRL + SHIFT + I` AI 代码
+
+`CTRL + ALT + R` 执行任务（自定义快捷键）
+
+`CTRL + R` 打开目录
+
+`CTRL + P` 打开文件
