@@ -38,6 +38,7 @@ export default defineConfig({
                 items: [
                     { text: '证书文件', link: '/developer/certification' },
                     { text: '二步验证恢复资料', link: '/developer/recovery' },
+                    { text: '镜像地址', link: '/developer/mirror' },
                     { text: 'VSCode 常用配置', link: '/developer/vscode' },
                     { text: 'UV', link: '/developer/uv' },
                     { text: '临时脚本', link: '/developer/scripts' },
