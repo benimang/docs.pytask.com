@@ -32,8 +32,9 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /AL
 
 也可以使用命令行安装，`wsl --list --online` 查看可以安装的发行版，然后执行 `wsl --install Xxxxx` 安装。
 
-!!! warning
-    如果使用命令行需要翻墙才行。
+> [!WARNING]
+> 如果使用命令行需要翻墙才行。
+
 
 ## wsl.conf 配置
 
