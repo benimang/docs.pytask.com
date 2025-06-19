@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 常用 Chrome 插件
       link: /developer/common#chrome-浏览器插件
+    - theme: alt
+      text: 研发后台
+      link: /company/xcp/xcll
   image:
       src: /icon.webp
 
