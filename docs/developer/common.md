@@ -28,9 +28,10 @@
 
 ## Chrome 浏览器插件
 
-| 名称                                                                                            | 备注                       |
-| ----------------------------------------------------------------------------------------------- | -------------------------- |
-| [沉浸式翻译](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)         | 可以把划词按键触发设置打开 |
-| [Markdown Viewer](https://chromewebstore.google.com/detail/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)    |                            |
-| [Fatkun图片批量下载](https://chromewebstore.google.com/detail/mojcdcedhidldcgaokbelcmffoaengkj) |                            |
+| 名称                                                                                                        | 备注                       |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [沉浸式翻译](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)                     | 可以把划词按键触发设置打开 |
+| [Markdown Viewer](https://chromewebstore.google.com/detail/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)                |                            |
+| [Fatkun图片批量下载](https://chromewebstore.google.com/detail/mojcdcedhidldcgaokbelcmffoaengkj)             |                            |
+| [User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg) |                            |
 
