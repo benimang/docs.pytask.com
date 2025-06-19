@@ -99,5 +99,9 @@ export default defineConfig({
         // 页面底部显示最后更新时间
         lastUpdated: {},
 
+        footer: {
+            copyright: 'Copyright © 2021-present Beni Mang'
+        }
+
     }
 })
